@@ -1,3 +1,3 @@
 # udemyTraining
 
-Just some training stuff
+Doing some GoLang training, this is just where I'm keeping it :)
